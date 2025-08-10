@@ -1,6 +1,6 @@
 # 🎬 Alight Motion XML → After Effects Converter  
 
-**Automatically transfer AM effects to AE with DKT plugin support**  
+**Automatically transfer AM effects to AE with AE-Motion plugin support**  
 
 ## 🔥 Features  
 
@@ -12,13 +12,13 @@
 
 | Alight Motion Effect | After Effects Equivalent | Plugin Used |
 |----------------------|--------------------------|-------------|
-| `shake`              | Auto-Shake               | **DKT**     |
-| `dblur`              | Directional Blur         | **DKT**     |
-| `wavewarp`           | Wave Warp                | **DKT**     |
-| `gaussianblur`       | Gaussian Blur            | **DKT**     |
-| `vignette`           | Vignette                 | **DKT**     |
-| `pinchbulge`         | Pinch/Bulge              | **DKT**     |
-| ...plus 15+ more     |                          |             |
+| `shake`              | Auto-Shake               | **AE-Motion**     |
+| `dblur`              | Directional Blur         | **AE-Motion**     |
+| `wavewarp`           | Wave Warp                | **AE-Motion**     |
+| `gaussianblur`       | Gaussian Blur            | **AE-Motion**     |
+| `vignette`           | Vignette                 | **AE-Motion**     |
+| `pinchbulge`         | Pinch/Bulge              | **AE-Motion**     |
+| ...plus 15+ more     |                          |                   |
 
 ---
 
@@ -29,7 +29,7 @@ graph TD
     A[AM Project XML] --> B{Script Processing}
     B --> C[Create AE Composition]
     B --> D[Convert Effects]
-    D --> E[Apply DKT Effects]
+    D --> E[Apply AE-Motion Effects]
     C --> G[Final AE Project]
     E --> G
 ```
