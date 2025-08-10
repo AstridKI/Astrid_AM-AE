@@ -1,4 +1,4 @@
-# 🎬 Alight Motion → After Effects Effects Converter  
+# 🎬 Alight Motion XML → After Effects Converter  
 
 **Automatically transfer AM effects to AE with DKT plugin support**  
 
