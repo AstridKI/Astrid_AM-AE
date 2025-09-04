@@ -53,5 +53,3 @@ The script currently supports the following effects:
 5. Open Motion Graphs
 6. Follow the instructions
 
----
-
