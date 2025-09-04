@@ -1,7 +1,7 @@
 # AstridXMLtoAE
 
 ## Description
-AstridXMLtoAE is an After Effects script that imports XML data from **Alight Motion** and maps Alight Motion effects and keyframes to equivalent After Effects effects and properties.  
+AstridXMLtoAE is an After Effects script that imports XML data from **Alight Motion** and maps Alight Motion effects and keyframes to equivalent (AE-Motion) After Effects effects and properties.  
 The script provides partial automation for effect transfer, logs unconvertible elements, and serves as a bridge between AM XML exports and AE.
 
 > ⚠️ Some Alight Motion effects may not have equivalents in After Effects. Those will be logged.
