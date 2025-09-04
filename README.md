@@ -7,7 +7,7 @@ The script provides partial automation for effect transfer, logs unconvertible e
 > ⚠️ Some Alight Motion effects may not have equivalents in After Effects. Those will be logged.
 
 ---
-
+> ⚠️ Requires the following After Effects plugins: **Flow** and **AE-Motion**.
 ## Features / Supported Effects
 
 The script currently supports the following effects:
