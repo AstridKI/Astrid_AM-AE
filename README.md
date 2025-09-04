@@ -5,11 +5,15 @@ AstridXMLtoAE is an After Effects script that imports XML data from **Alight Mot
 The script provides partial automation for effect transfer, logs unconvertible elements, and serves as a bridge between AM XML exports and AE.
 
 > ⚠️ Some Alight Motion effects may not have equivalents in After Effects. Those will be logged.
+
 ---
+
 > ⚠️ Requires the following After Effects plugins: **Flow** and **AE-Motion**.
+
 ---
+
 > You can download the **AE-Motion** plugin from [this link](https://codeberg.org/NotYetEasy/AEMotion/releases).
----
+
 
 ## Features / Supported Effects
 
