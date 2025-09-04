@@ -8,7 +8,7 @@ The script provides partial automation for effect transfer, logs unconvertible e
 
 ---
 > ⚠️ Requires the following After Effects plugins: **Flow** and **AE-Motion**.
-> You can download the **AE-Motion** plugin from [this link](https://codeberg.org/NotYetEasy/AEMotion).
+> You can download the **AE-Motion** plugin from [this link](https://codeberg.org/NotYetEasy/AEMotion/releases).
 
 ## Features / Supported Effects
 
