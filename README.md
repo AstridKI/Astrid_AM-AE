@@ -49,8 +49,9 @@ The script currently supports the following effects:
 1. Copy `AstridXMLtoAE.jsx` to your After Effects Scripts folder
 2. Restart After Effects.
 3. Run the script from `File > Scripts > Run Script File...`
-4. Select an Alight Motion XML file.
-5. Follow the console/log output to review any effects or properties that could not be mapped automatically.
+4. Select and import an Alight Motion XML file.
+5. Open Motion Graphs
+6. Follow the instructions
 
 ---
 
